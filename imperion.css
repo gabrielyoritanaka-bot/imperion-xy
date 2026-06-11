@@ -1,0 +1,44 @@
+<!DOCTYPE>hmtl>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta nome="viewport"content="width=device-width,
+initial-scale=1.0">
+<title>imperion-xy</title>
+<tsyle>
+body{
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #222;
+    color:white;
+    text-align:center;
+}
+
+nav {
+    background-color: #444;
+    text-align: center;
+    pedding: 10px;
+
+}
+
+section {
+    pedding:20px;
+
+}
+
+.card {
+    background-color: white;
+    padding: 15px;
+    magin: 10px 0;
+    border-radius: 8px;
+
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15xp;
+    
