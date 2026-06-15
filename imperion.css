@@ -41,4 +41,43 @@ footer {
     color: white;
     text-align: center;
     padding: 15xp;
-    
+}
+</sty>
+</head>
+<body>
+
+<header>
+<h1>academia imperion-xy</h1>
+<p>transforme seu corpo, e transforme sua vida!</p>
+</header>
+
+<nav>
+<a href="#">inicio,</a>
+<ahref="#">planos</a>
+<a href="#">exercicios</a>
+<a href="#">treinos</a>
+</nav>
+
+<selection>
+<div class="card">
+ <h2>plano basico</h2>
+ <p>r$30,90 por mes</p>
+</div>
+
+<div class="card">
+ <h2>plano premium</h2>
+ <p>r$120,90 por mes</p>
+</div>
+
+<div class="card">
+ <h2>horario de funcionamento</h2>
+ <p>segunda a sabado: 06h as 22h</p>
+</div>
+</selection>
+
+<footer>
+ <p>&copy;2026 academia imperion-xy</p>
+</footer>
+
+</body>
+<html>
